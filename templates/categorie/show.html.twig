@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+<h1>{{categorie.nom}}</h1>
+
+<h2>Produits</h2>
+
+{% include 'produit/liste.html.twig' with {'produits': categorie.produits} %}
+{% endblock %}
