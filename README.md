@@ -1,1 +1,5 @@
-# Symfony_A3
+Membre de l'équipe : 
+
+-Christian Tiv
+-Cyril Saboureau
+-Antoine Savelli
